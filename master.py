@@ -19,10 +19,10 @@ def initialise(frequency):
   pinMotorBBackwards = #use format (pin,frequency)
 
 #Duty Cycles
-DutyCycleA = 30
-DutyCycleB = 30
+  DutyCycleA = 30
+  DutyCycleB = 30
 
-pinLineFollower = #no idea. 
+  pinLineFollower = #no idea. 
 
 #set to outputs
 
